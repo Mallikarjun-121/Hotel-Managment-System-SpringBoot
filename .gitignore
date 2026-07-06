@@ -1,0 +1,23 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Upload folders
+uploads/
+backend/uploads/
+backend/Hotelmanagement/uploads/
+
+# React
+node_modules/
+dist/
+
+# Java
+target/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+Thumbs.db
+.DS_Store
