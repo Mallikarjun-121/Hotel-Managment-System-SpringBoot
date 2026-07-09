@@ -2,6 +2,7 @@
 
 A **full-stack Hotel Management System** built with **Spring Boot 3** (backend) and **React + Vite** (frontend).
 The system enables hotel administrators to manage hotels, rooms, and bookings, while customers can browse, search, book rooms, and manage their reservations — all secured with **JWT-based Role-Based Access Control (RBAC)**.
+this is the ppt link: https://drive.google.com/file/d/1aq_6PMAigZtQWeJyFVvn6NBqUCnAsgU5/view?usp=sharing
 
 ---
 
@@ -23,7 +24,7 @@ The system enables hotel administrators to manage hotels, rooms, and bookings, w
 - [Frontend Pages](#-frontend-pages)
 - [User Roles & Permissions](#-user-roles--permissions)
 - [Screenshots](#-screenshots)
-- [Author](#-author)
+
 
 ---
 
@@ -886,7 +887,6 @@ Feel free to use it as a learning reference.
 
 ## 👨‍💻 Author
 
-**Yashasree**
 - Internship Training Project
 - Full-Stack Java & React Developer (in training)
 - Built with: Spring Boot 3 · React 19 · MySQL · JWT · Swagger
